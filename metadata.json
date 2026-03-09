@@ -1,0 +1,5 @@
+{
+  "name": "SmartRoom Booking",
+  "description": "Hệ thống đặt phòng họp thông minh với gợi ý phòng phù hợp và kiểm tra trùng lịch.",
+  "requestFramePermissions": []
+}
